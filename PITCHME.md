@@ -17,6 +17,8 @@
 
 担当している月刊誌のインタビューページ。取材に同行しての撮影。
 
+---
+
 ![obamj1](assets/img/img_pdf1.png)
 
 ---
@@ -26,6 +28,8 @@
 ---
 
 チラシのお仕事。
+
+---
 
 ![flyer1](assets/img/img_flyer1.jpg)
 
