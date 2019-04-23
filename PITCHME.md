@@ -25,23 +25,28 @@
 
 ---
 
+チラシのお仕事。
 
-
+![flyer1](assets/img/img_flyer1.jpg)
 
 ---
 
-写真が好きです。
+![flyer2](assets/img/img_flyer2.jpg)
 
+---
+
+プライベートでは最近 `鳥` を撮ってます。森の中に入ると2時間3時間はすぐに過ぎるほど集中して撮ってます。
+
+---
 
 ![bird1](assets/img/img_bird1.jpg)
 
+---
+
 ![bird2](assets/img/img_bird2.jpg)
 
-![flyer1](assets/img/img_flyer1
-.jpg)
+---
 
-![flyer2](assets/img/img_flyer2
-.jpg)
+![wood](assets/img/img_wood.jpg)
 
-![wood](assets/img/img_wood
-.jpg)
+---
